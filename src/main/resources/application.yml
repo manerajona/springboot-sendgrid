@@ -1,0 +1,4 @@
+email:
+  sendgrid:
+    apikey: ${SG_APIKEY:}
+    template: ${SG_TEMPLATE:}
